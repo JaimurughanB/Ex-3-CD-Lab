@@ -71,6 +71,9 @@ void yyerror(const char *s) {
     fprintf(stderr, "Error: %s\n", s);
 }
 # OUTPUT
+![Screenshot 2024-10-10 135321](https://github.com/user-attachments/assets/c2d0328e-76ed-48e3-9b91-6819a043b0b3)
+
+
 
 
 # RESULT
